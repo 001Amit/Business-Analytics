@@ -61,6 +61,18 @@ Detailed transaction-level data, containing:
 3. **Visualize key metrics** by creating charts for monthly trends, sales by gender, and order status distribution.
 ## ScreenSchots
 ![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20194645.png)
+![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20194836.png)
+![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20194836.png)
+![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20194902.png)
+
+![Alt Text]( https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20194945.png)
+![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20195046.png)
+![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20195055.png)
+![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20195105.png)
+![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20195144.png)
+![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20195153.png)
+![Alt Text](https://github.com/001Amit/Business-Analytics/blob/main/Screenshot%202024-10-27%20200252.png)
+
 
 ## Contributors
 - **Amit Kumar Thakur**
