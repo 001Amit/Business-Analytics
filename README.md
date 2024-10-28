@@ -59,6 +59,9 @@ Detailed transaction-level data, containing:
 1. **Open the Excel file** to explore each sheet individually.
 2. **Filter and sort** as needed to view specific timeframes, demographics, or product details.
 3. **Visualize key metrics** by creating charts for monthly trends, sales by gender, and order status distribution.
+## ScreenSchots
+![Alt Text](https://github.com/Rituraj1008/Mini-Project-BA/blob/main/Screenshot%202024-10-28%20001621.png
+)
 
 ## Contributors
 - **Amit Kumar Thakur**
